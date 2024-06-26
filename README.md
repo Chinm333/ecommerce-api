@@ -48,5 +48,6 @@ MONGODB_URL=mongodb://localhost:27017/your_database_name
 JWT_SECRET=your_jwt_secret
 
 
-##And then start your server with nodemon index.js
-### or nodemon --env-file=.env index.js to not use dotenv remove the dotenv part from project.
+// And then start your server:
+nodemon index.js
+// or nodemon --env-file=.env index.js to not use dotenv remove the dotenv part from project.
