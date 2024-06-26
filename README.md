@@ -29,7 +29,7 @@ This is a scalable server-side application for an e-commerce platform, focusing 
 ### Prerequisites
 
 - Node.js
-- -Express.js
+- Express.js
 - npm (Node Package Manager)
 - MongoDB
 
